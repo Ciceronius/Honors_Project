@@ -1,2 +1,2 @@
 # Honors_Project
-This is Levi's Honors Project Github Repository.
+This is The Honors Project Github Repository.
